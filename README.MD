@@ -1,8 +1,8 @@
 ## Resizable Array with Python
 
-**Resizable/Dynamic Array is my 3rd semester course Data Structures and Algorithms project. We are a group of three students.**
+Resizable/Dynamic Array is my 3rd semester course Data Structures and Algorithms project. We are a group of three students.
 
-Group Members:
+**Group Members:**
 
 - Raheel Siddiqui (18B-010-SE)
 
