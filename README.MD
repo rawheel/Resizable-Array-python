@@ -12,7 +12,7 @@ Resizable/Dynamic Array is my 3rd semester course Data Structures and Algorithms
 
 First of all get started by cloning this repository on your machine.  
 ```ruby
-git@github.com:rawheel/Resizable-Array-python.git 
+git clone git@github.com:rawheel/Resizable-Array-python.git 
 ```
 Now,
 
