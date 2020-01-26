@@ -14,21 +14,21 @@ This project contains following Methods:
 	Takes two inputs insertedvalue(value going to be inserted) and Insertafter(value after which we want to insert new value), It also Resize the array.
 
 4) **delete_at_first**
-	I delete Value at first index(0) with that size of list get decreased.
+	Deletes Value at first index(0) with that size of list get decreased.
 
 5) **delete_at_end**
-	I delete Value at last index with that size of list get decreased.
+	deletes Value at last index with that size of list get decreased.
 
 6) **shrink**
 	Takes one input(value going to be deleted), It deletes that particular value which shrinks the size of array.
 
 7) **minimum_value**
-	It returns minimum value in Array.
+	Returns minimum value in Array.
 
 8) **maximum_value**
 	Returns maximum value in Array.
 9) *printarray*
-	returns Array
+	Returns Array
 
 **Group Members:**
 
