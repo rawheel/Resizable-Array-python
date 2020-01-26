@@ -27,7 +27,7 @@ This project contains following Methods:
 
 8) **maximum_value**
 	Returns maximum value in Array.
-9) *printarray*
+9) **printarray**
 	Returns Array
 
 **Group Members:**
